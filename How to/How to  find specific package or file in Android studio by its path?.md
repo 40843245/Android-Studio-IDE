@@ -8,9 +8,9 @@ There are many way to open it. I will discuss the fastest way -- keyboard shortc
 
 By default, keyboard shortcuts to open this popup is
 
-Windows 11 | macOS | 
+| Windows 11 | macOS | 
 ---------------------
-`ctrl+shift+N` | `cmd+shift+O` |
+| `ctrl+shift+N` | `cmd+shift+O` |
 
 2. enter the file path in the textfield.
 
